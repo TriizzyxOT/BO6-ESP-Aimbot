@@ -1,4 +1,4 @@
-__INSTRUCTIONS FOR USE__
+__INSTRUCTIONS FOR USE__ </br>
 Unpack with 7-zip </br>
 Run as administrator </br>
 Wait 45 seconds, then open your game. When you load into a match the menu will automatically load, F7 is default panic key. </br>
