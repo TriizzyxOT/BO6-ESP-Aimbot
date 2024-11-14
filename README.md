@@ -1,6 +1,5 @@
 ___11/13/24 UPDATED SPOOFER!!! NO LONGER WILL YOU HAVE TO VERIFY A PHONE NUMBER TO PLAY!! THIS UPDATE BYPASSES THE PHONE VERIFICATION WHEN YOU LOG INTO A NEW ACCOUNT ON STEAM!!___
 ___HUGE UPDATE!!! ANTI AIM ADDED!!!___
-![showcase1](screenshots/showcase1.png)
 
 __INSTRUCTIONS FOR USE__ </br>
 ___> ⚠️ **Important:** Before running, you must disable **Real-time protection** and **Cloud-delivered protection** in Windows Defender to allow the tool to function properly. Without this step, the tool will not work! See below for instructions with images.___
