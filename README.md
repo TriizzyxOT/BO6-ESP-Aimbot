@@ -104,7 +104,7 @@ Play worry-free with an included HWID spoofer and shadow ban bypass.
 
 - **Battle.NET**
 - **Steam**
-- **Xbox Game Pass**
+- **Xbox Game Pass** **NOT CURRENTLY WORKING!**
 
 ---
 
