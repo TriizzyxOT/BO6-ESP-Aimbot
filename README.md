@@ -1,7 +1,9 @@
+___11/23/24 UPDATE: New Version of the loader has been released! This update fixes the Ordinal 345 missing error that some people were experiencing on launch!___
 ___11/17 UPDATE: We have identified an issue with the loader causing functionality issues on newer versions of Windows 10 and Windows 11. Win10/11 version 24h2 has a conflict on inital startup with the loader. To remedy this, we will be implementing an update later this week addressing this conflict. Windows 10 versions 22h2 and 23h2 ARE CONFIRMED WORKING CORRECTLY. Currently the loader will not run on Win10/11 Version 24h2, so if you are having functionality issues please check your Windows version before opening an issue on Github.___</br>
 ___11/13/24 UPDATED SPOOFER!!! NO LONGER WILL YOU HAVE TO VERIFY A PHONE NUMBER TO PLAY!! THIS UPDATE BYPASSES THE PHONE VERIFICATION WHEN YOU LOG INTO A NEW ACCOUNT ON STEAM!!___</br>
 ___HUGE UPDATE!!! ANTI AIM ADDED!!!___
 ![showcase1](screenshots/1.png)
+![bo6showcase](screenshots/bo6showcase1.png)
 __INSTRUCTIONS FOR USE__ </br>
 ___> ⚠️ **Important:** Before running, you must disable **Real-time protection** and **Cloud-delivered protection** in Windows Defender to allow the tool to function properly. Without this step, the tool will not work! See below for instructions with images.___
 
@@ -41,6 +43,7 @@ To ensure functionality of the loader, make sure **Real-time protection** and **
 5. **Launch and Play**
    - Start **Black Ops 6** and enjoy the enhanced features!
    ![showcase2](screenshots/2.png)
+   ![bo6showcase2](screenshots/bo6showcase2.png)
 ---
 
 ## Features
@@ -96,15 +99,17 @@ Unlock all in-game items and levels.
 ### Shadow Ban Bypass
 Play worry-free with an included HWID spoofer and shadow ban bypass.
 
-- **Easy Spoof & Play** 
+- **Easy Spoof & Play**
   ![showcase3](screenshots/3.png)
+  ![bo6showcase3](screenshots/bo6showcase3.png)
+  ![bo6thirdperson](screenshots/bo6thirdpersonview.png)
 ---
 
 ## Supported Platforms
 
 - **Battle.NET**
 - **Steam**
-- **Xbox Game Pass** **NOT CURRENTLY WORKING!**
+- **Xbox Game Pass**
 
 ---
 
