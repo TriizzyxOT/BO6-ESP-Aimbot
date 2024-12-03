@@ -1,4 +1,4 @@
-___11/23/24 UPDATE: New Version of the loader has been released! This update fixes the Ordinal 345 missing error that some people were experiencing on launch!___
+___11/23/24 UPDATE: New Version of the loader has been released! This update fixes the Ordinal 345 missing error that some people were experiencing on launch!___</br>
 ___11/17 UPDATE: We have identified an issue with the loader causing functionality issues on newer versions of Windows 10 and Windows 11. Win10/11 version 24h2 has a conflict on inital startup with the loader. To remedy this, we will be implementing an update later this week addressing this conflict. Windows 10 versions 22h2 and 23h2 ARE CONFIRMED WORKING CORRECTLY. Currently the loader will not run on Win10/11 Version 24h2, so if you are having functionality issues please check your Windows version before opening an issue on Github.___</br>
 ___11/13/24 UPDATED SPOOFER!!! NO LONGER WILL YOU HAVE TO VERIFY A PHONE NUMBER TO PLAY!! THIS UPDATE BYPASSES THE PHONE VERIFICATION WHEN YOU LOG INTO A NEW ACCOUNT ON STEAM!!___</br>
 ___HUGE UPDATE!!! ANTI AIM ADDED!!!___
