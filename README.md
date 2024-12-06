@@ -2,11 +2,9 @@ ___12/4/24 STABILITY FIX!!! Windows 11 issues have been resolved! Currently func
 ___11/23/24 UPDATE: New Version of the loader has been released! This update fixes the Ordinal 345 missing error that some people were experiencing on launch!___</br>
 ___11/13/24 UPDATED SPOOFER!!! NO LONGER WILL YOU HAVE TO VERIFY A PHONE NUMBER TO PLAY!! THIS UPDATE BYPASSES THE PHONE VERIFICATION WHEN YOU LOG INTO A NEW ACCOUNT ON STEAM!!___</br>
 ___HUGE UPDATE!!! ANTI AIM ADDED!!!___
+A little background on this project, My buddies and i got sick of paying 30$ a month for some half ass ripped cheat thats being sold by 100 other people all over Discord, as I use this cheat regulary it is and will be one of the only free cheats for Black Ops 6 that will continually stay undetected by ricochet. We take pride in our accounts, who wants to be the craziest player in the lobby but can't show it off because they get banned every 3-4 games. Fuck that. So here we are. I hope yall enjoy!</br>
 ![showcase1](screenshots/1.png)
 ![bo6showcase](screenshots/bo6showcase1.png)
-A little background on this project, My buddies and i got sick of paying 30$ a month for some half ass ripped cheat thats being sold by 100 other people all over Discord, as I use this cheat regulary it is and will be one of the only free cheats for Black Ops 6 that will continually stay undetected by ricochet. We take pride in our accounts, who the hell wants to be the craziest player in the lobby but getting banned every 3-4 games. Fuck that. So here we are. I hope yall enjoy!</br>
-
-
 __INSTRUCTIONS FOR USE__ </br>
 ___> ⚠️ **Important:** Before running, you must disable **Real-time protection** and **Cloud-delivered protection** in Windows Defender to allow the tool to function properly. Without this step, the tool will not work! See below for instructions with images.___
 
