@@ -1,3 +1,4 @@
+___12/25/24 MERRY CHRISTMAS!! NEW FEATURES HAVE BEEN ADDED!! We have implemented spam reporting and playername obfuscation!! This makes it so your account can't get reported by other players spectating you! Spam reporting allows you to send up to 100 reports in every category and instantly get other players shadowbanned!!___</br>
 ___12/4/24 STABILITY FIX!!! Windows 11 issues have been resolved! Currently functional on all versions of Windows 10 and 11!!___</br>
 ___11/23/24 UPDATE: New Version of the loader has been released! This update fixes the Ordinal 345 missing error that some people were experiencing on launch!___</br>
 ___11/13/24 UPDATED SPOOFER!!! NO LONGER WILL YOU HAVE TO VERIFY A PHONE NUMBER TO PLAY!! THIS UPDATE BYPASSES THE PHONE VERIFICATION WHEN YOU LOG INTO A NEW ACCOUNT ON STEAM!!___</br>
